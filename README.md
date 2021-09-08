@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a title="GitHub stats" href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=davidbarbosa23&count_private=true&show_icons=true&hide=issues,contribs" />
+</a>
+<a title="Top Langs" href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidbarbosa23&layout=compact" />
+</a>
+
 <!--
 **davidbarbosa23/davidbarbosa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
